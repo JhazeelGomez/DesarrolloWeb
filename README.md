@@ -15,5 +15,3 @@ Antes de ejecutar el proyecto localmente o desplegarlo, asegúrate de tener lo s
 
 - **Python** (si usas Python para el back-end o un framework como Flask/Django)
 - **Archivo CSV** con la estructura requerida
-
-## Configuración e Instalación
