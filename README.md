@@ -13,5 +13,5 @@ Este proyecto proporciona una aplicación web que lee datos de un archivo CSV y 
 
 Antes de ejecutar el proyecto localmente o desplegarlo, asegúrate de tener lo siguiente:
 
-- **Python**
+- **Python** 
 - **Archivo CSV** con la estructura requerida
